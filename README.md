@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Paresh Dhande</h1>
+<h1 align="center">Hi, I'm Paresh Dhande</h1>
 <h3 align="center">Full-stack web developer passionate about creating dynamic, user-friendly applications. Proficient in both front-end and back-end technologies, committed to delivering seamless, high-quality digital experiences. Always eager to learn and innovate.</h3>
 
-- 💬 Ask me about **Java , RDBMS , React**
+- 💬 Ask me about **Java , SQL , React**
 
 - 📫 How to reach me **pareshdhande10@gmail.com**
 
